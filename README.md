@@ -28,7 +28,7 @@ CSS
 
 ## Support and contact details
 
-Feel free to contact me at samwainaina01@gmail.com
+Feel free to contact me at samuel.wainaina@student.moringaschool.com
 
 ### License
 
