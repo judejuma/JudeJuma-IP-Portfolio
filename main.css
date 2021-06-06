@@ -8,3 +8,13 @@
   height: 50px;
   border-radius: 50%;
 }
+.bg {
+  background-image: url("images/sky-quotes-1024x614.jpg.webp");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-blend-mode: overlay;
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+}
