@@ -1,8 +1,8 @@
 # MORINGA SCHOOL
 
-#### My Portfolio , 4 June 2021
+#### My Portfolio , 8 Nov 2021
 
-#### By **Samuel Wainaina**
+#### By **Jude Juma**
 
 ## Description
 
@@ -33,4 +33,4 @@ Feel free to contact me at samuel.wainaina@student.moringaschool.com
 ### License
 
 [Licence](https://choosealicense.com/licenses/mit/)
-Copyright (c) 2021 **Mesut_Empire**
+Copyright (c) 2021 **Cosmosapien**
